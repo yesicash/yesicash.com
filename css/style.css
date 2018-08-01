@@ -95,7 +95,7 @@ button:focus {
 }
 
 .mt-25 {
-  margin-top: 25px;
+  margin-top: 40px;
 }
 
 .p0 {
@@ -378,7 +378,7 @@ button:focus {
 .home_banner_area .banner_inner {
   overflow: hidden;
   width: 100%;
-  padding: 225px 0px;
+  padding: 30px 0px;
 }
 
 .home_banner_area .banner_inner .banner_content {
@@ -391,7 +391,7 @@ button:focus {
   font-weight: 500;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .home_banner_area .banner_inner .banner_content p {
@@ -399,7 +399,7 @@ button:focus {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
   max-width: 405px;
-  margin-bottom: 35px;
+  margin-bottom: 10px;
   opacity: .6;
 }
 
@@ -501,7 +501,7 @@ button:focus {
 }
 
 .banner_area .banner_inner .banner_content .page_link a {
-  font-size: 14px;
+  font-size: 30px;
   color: #fff;
   font-family: "Roboto", sans-serif;
   margin-right: 32px;
